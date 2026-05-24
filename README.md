@@ -1,6 +1,7 @@
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛! 🚀💻
+# 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛! 🚀💻
 
 I’m a passionate DevOps Engineer focused on building scalable, secure, and automated cloud infrastructure solutions. My expertise includes Microsoft Azure, Azure DevOps, Azure Kubernetes Service (AKS), CI/CD pipeline automation, Docker, Kubernetes, and Infrastructure as Code (IaC) using Terraform.
+
 
 I enjoy designing efficient deployment workflows, automating infrastructure provisioning, and improving application reliability through modern DevOps practices. I’m continuously learning and exploring new cloud technologies to create high-performance and production-ready solutions.
 
@@ -16,6 +17,7 @@ I enjoy designing efficient deployment workflows, automating infrastructure prov
 - Linux Administration
 - Monitoring & Deployment Automation
 
+
    🚀 𝐖𝐡𝐚𝐭 𝐘𝐨𝐮’𝐥𝐥 𝐅𝐢𝐧𝐝 𝐇𝐞𝐫𝐞!
 
 - DevOps Projects
@@ -26,6 +28,7 @@ I enjoy designing efficient deployment workflows, automating infrastructure prov
 - Automation Scripts & Cloud Solutions
 
 “Automating infrastructure and simplifying deployments through DevOps.”
+
 
 ## Tools I Work With 🔧
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
