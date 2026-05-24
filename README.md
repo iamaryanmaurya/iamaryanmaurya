@@ -1,5 +1,27 @@
-# Welcome to My GitHub! 🚀💻
-I'm a results-driven DevOps Engineer with over two years of experience specializing in Azure cloud, Azure DevOPs, Azure Kubernetes Service (AKS), CI/CD pipelines, and Infrastructure as Code (IaC) using Terraform. He has expertise in automating cloud deployments, optimizing infrastructure, and ensuring security and scalability in cloud-based applications. Aryan is committed to driving innovation and efficiency in cloud infrastructure solutions.
+Welcome to My GitHub! 🚀💻
+
+I’m a passionate DevOps Engineer focused on building scalable, secure, and automated cloud infrastructure solutions. My expertise includes Microsoft Azure, Azure DevOps, Azure Kubernetes Service (AKS), CI/CD pipeline automation, Docker, Kubernetes, and Infrastructure as Code (IaC) using Terraform.
+
+I enjoy designing efficient deployment workflows, automating infrastructure provisioning, and improving application reliability through modern DevOps practices. I’m continuously learning and exploring new cloud technologies to create high-performance and production-ready solutions.
+
+🔧 Core Skills
+Microsoft Azure
+Azure DevOps
+Azure Kubernetes Service (AKS)
+Terraform (Infrastructure as Code)
+Docker & Kubernetes
+CI/CD Pipeline Automation
+Linux Administration
+Monitoring & Deployment Automation
+🚀 What You’ll Find Here
+DevOps Projects
+Azure & AKS Implementations
+CI/CD Pipeline Setups
+Terraform Infrastructure Code
+Docker & Kubernetes Deployments
+Automation Scripts & Cloud Solutions
+
+“Automating infrastructure and simplifying deployments through DevOps.”
 
 ## Tools I Work With 🔧
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
