@@ -6,21 +6,14 @@ I enjoy designing efficient deployment workflows, automating infrastructure prov
 
 🔧 𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬
 
-Microsoft Azure
-
-Azure DevOps
-
-Azure Kubernetes Service (AKS)
-
-Terraform (Infrastructure as Code)
-
-Docker & Kubernetes
-
-CI/CD Pipeline Automation
-
-Linux Administration
-
-Monitoring & Deployment Automation
+- Microsoft Azure
+- Azure DevOps
+- Azure Kubernetes Service (AKS)
+- Terraform (Infrastructure as Code)
+- Docker & Kubernetes
+- CI/CD Pipeline Automation
+- Linux Administration
+- Monitoring & Deployment Automation
 
 🚀 𝐖𝐡𝐚𝐭 𝐘𝐨𝐮’𝐥𝐥 𝐅𝐢𝐧𝐝 𝐇𝐞𝐫𝐞
 
