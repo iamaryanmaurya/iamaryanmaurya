@@ -6,7 +6,7 @@ I’m a passionate 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 foc
 I enjoy designing efficient deployment workflows, automating infrastructure provisioning, and improving application reliability through modern DevOps practices. I’m continuously learning and exploring new cloud technologies to create high-performance and production-ready solutions.
 
 
-  🔧 # 𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬
+  🔧  𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬
 
 - Microsoft Azure
 - Azure DevOps
@@ -18,7 +18,7 @@ I enjoy designing efficient deployment workflows, automating infrastructure prov
 - Monitoring & Deployment Automation
 
 
-   🚀 # 𝐖𝐡𝐚𝐭 𝐘𝐨𝐮’𝐥𝐥 𝐅𝐢𝐧𝐝 𝐇𝐞𝐫𝐞!
+   🚀  𝐖𝐡𝐚𝐭 𝐘𝐨𝐮’𝐥𝐥 𝐅𝐢𝐧𝐝 𝐇𝐞𝐫𝐞!
 
 - DevOps Projects
 - Azure & AKS Implementations
@@ -42,5 +42,5 @@ I enjoy designing efficient deployment workflows, automating infrastructure prov
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 𝐌𝐲 𝐌𝐨𝐭𝐭𝐨 🎯
-Why intervene manually when you can trigger things automatically? 😎  
+⚡ Why handle repetitive tasks manually when automation can do it faster, smarter, and error-free? 😎  
 Time is money 💰, so automate & chill..!
